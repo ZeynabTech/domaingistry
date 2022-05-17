@@ -1,0 +1,26 @@
+{
+  "name": "domaingistry_cli",
+  "version": "1.0.0",
+  "description": "A Domain Name Generation CLI",
+  "main": "domaingistry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Domain",
+    "Gistry",
+    "Domain",
+    "Name",
+    "Generator",
+    "Domains"
+  ],
+  "author": "zeynab shahbazi",
+  "license": "MIT",
+  "bin": {
+    "domaingistry": "./domaingistry.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^3.0.1"
+  }
+}
